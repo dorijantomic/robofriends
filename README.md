@@ -16,7 +16,7 @@ I've used this repo as a refresher on how to add Redux to a React APP that was u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/redux-refresher-app.git
+   git clone https://github.com/dorijantomic/robofriends
 Navigate to the project directory:
 
 bash
