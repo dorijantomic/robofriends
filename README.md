@@ -1,17 +1,22 @@
+# Robofriends Redux
+
 I've used this repo as a refresher on how to add Redux to a React APP that was using vanilla React state management.
 
-NOTE: This project does not use the recommended Redux Toolkit. This will be done in another repo.
+**NOTE:** This project does not use the recommended Redux Toolkit. This will be done in another repo.
 
-Getting Started
-Prerequisites
-Node.js
-npm or yarn
-Installation
-Clone the repository:
+## Getting Started
 
-bash
-Copy code
-git clone https://github.com/yourusername/redux-refresher-app.git
+### Prerequisites
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/redux-refresher-app.git
 Navigate to the project directory:
 
 bash
@@ -41,7 +46,7 @@ redux-refresher-app/
 ├── public/
 ├── src/
 │   ├── containers/
-│   ├── components/  
+│   ├── components/
 │   └── index.js
 ├── .gitignore
 ├── package.json
@@ -49,3 +54,8 @@ redux-refresher-app/
 
 Summary
 This repo serves as a simple example of converting a React app from vanilla state management to using Redux. Keep in mind that this project does not use the Redux Toolkit, which will be explored in another repo.
+
+vbnet
+Copy code
+
+I hope this format meets your expectations! Let me know if there's anything else you'd like to adjus
